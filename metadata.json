@@ -1,0 +1,7 @@
+{
+  "name": "서재온 (SEOJAE ON) - 온라인 PDF 도서관",
+  "description": "다양한 분야의 PDF 도서를 열람하고 개인 맞춤형 추천, 책갈피 및 메모, 평점과 서평을 즐기는 스마트 온라인 도서관 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
